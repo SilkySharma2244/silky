@@ -2,8 +2,8 @@
 public class Fuckyou {
 
 	public static void main(String[] args) {
-		int x=10;
-		System.out.println(x);
+		int y=11;
+		System.out.println(y);
 			
 
 	}
