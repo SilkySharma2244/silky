@@ -2,7 +2,9 @@
 public class Fuckyou {
 
 	public static void main(String[] args) {
-		System.out.println("fucking luing u");
+		int x=10;
+		System.out.println(x);
+			
 
 	}
 
