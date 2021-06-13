@@ -5,7 +5,7 @@ public class Fuckyou {
 
 
 		System.out.println();
-		int x=21;
+		int x=23;
 		
 
 			
